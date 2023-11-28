@@ -4,7 +4,7 @@
 
 This is a Python-based web application that gives current weather information for any place in the world.
 All you need to do is type the name of the place and the program will display the temperature of the city.
-Requirements
+Requirements  
 To run this program, you will need the following:
 
 Python 3.9 or higher
